@@ -1,0 +1,14 @@
+# j1miniltexx-user 5.1.1 LMY47V J105FXXS0ARD2 release-keys
+- manufacturer: samsung
+- platform: sc8830
+- codename: j1minilte
+- flavor: j1miniltexx-user
+- release: 5.1.1
+- id: LMY47V
+- incremental: J105FXXS0ARD2
+- tags: release-keys
+- fingerprint: samsung/j1miniltexx/j1minilte:5.1.1/LMY47V/J105FXXS0ARD2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: j1miniltexx-user-5.1.1-LMY47V-J105FXXS0ARD2-release-keys
+- repo: samsung_j1minilte_dump
